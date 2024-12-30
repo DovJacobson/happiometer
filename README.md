@@ -2,8 +2,8 @@
 Exercise your smile muscles and track your daily progress.
 
 This is built as my 2025 Happy New Year Card.
-Rather than simply wishcasting a Happy New Year to those I love.
-I propose instead this silly little app that purports to help them actually achieve it.
+Rather than simply wishcasting a Happy New Year to loved ones and colleagues (often the same), 
+why not send instead a silly little app that purports to help them actually achieve it.
 
 
 ## Privacy Commitment
